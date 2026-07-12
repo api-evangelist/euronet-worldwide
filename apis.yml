@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/euronet-worldwide
+  - type: Blog
+    url: https://www.euronetworldwide.com/feed/
 apis: []
