@@ -1,0 +1,18 @@
+{
+  "repo": "euronet-worldwide",
+  "feeds": [
+    {
+      "source": "https://www.euronetworldwide.com/feed/",
+      "feed_url": "https://www.euronetworldwide.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.linkedin.com/company/euronet-worldwide",
+      "error": "HTTPError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 15
+}
