@@ -2,21 +2,21 @@
   "repo": "euronet-worldwide",
   "feeds": [
     {
-      "source": "https://www.linkedin.com/company/euronet-worldwide",
-      "feed_url": "https://www.linkedin.com/company/euronet-worldwide",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
       "source": "https://www.euronetworldwide.com/feed/",
       "feed_url": "https://www.euronetworldwide.com/feed/",
       "title": "",
       "saved": 0,
       "method": "feed"
+    },
+    {
+      "source": "https://www.linkedin.com/company/euronet-worldwide",
+      "feed_url": "https://www.linkedin.com/company/euronet-worldwide",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 18,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
